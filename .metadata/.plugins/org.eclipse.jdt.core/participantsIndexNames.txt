@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+C:\Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1235677898.index
+\AmazonBookStore\src\main\java
+C:\Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\89281293.index
+\AmazonBookStore\src\main\java
+C:\Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2624930765.index
+\AmazonBookStore\src\main\java
